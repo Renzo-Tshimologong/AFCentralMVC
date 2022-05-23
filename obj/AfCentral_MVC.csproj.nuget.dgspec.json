@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/sylvorenzo/dotnet_Projects/AfCentral_MVC/AfCentral_MVC.csproj": {}
+    "C:\\Users\\kmanu\\Documents\\SQL\\AFCentralMVC\\AfCentral_MVC.csproj": {}
   },
   "projects": {
-    "/home/sylvorenzo/dotnet_Projects/AfCentral_MVC/AfCentral_MVC.csproj": {
+    "C:\\Users\\kmanu\\Documents\\SQL\\AFCentralMVC\\AfCentral_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sylvorenzo/dotnet_Projects/AfCentral_MVC/AfCentral_MVC.csproj",
+        "projectUniqueName": "C:\\Users\\kmanu\\Documents\\SQL\\AFCentralMVC\\AfCentral_MVC.csproj",
         "projectName": "AfCentral_MVC",
-        "projectPath": "/home/sylvorenzo/dotnet_Projects/AfCentral_MVC/AfCentral_MVC.csproj",
-        "packagesPath": "/home/sylvorenzo/.nuget/packages/",
-        "outputPath": "/home/sylvorenzo/dotnet_Projects/AfCentral_MVC/obj/",
+        "projectPath": "C:\\Users\\kmanu\\Documents\\SQL\\AFCentralMVC\\AfCentral_MVC.csproj",
+        "packagesPath": "C:\\Users\\kmanu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kmanu\\Documents\\SQL\\AFCentralMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sylvorenzo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\kmanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
